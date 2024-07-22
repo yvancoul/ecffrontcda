@@ -33,7 +33,7 @@ export default function Header() {
             <span className="gray">Location</span>
             <span>France</span>
           </div>
-          <img src="./src/assets/img/france.png" alt="Profile" />
+          <img src="../assets/img/france.png" alt="Profile" />
 
         </li>
         <li className="profile-info">
@@ -42,7 +42,7 @@ export default function Header() {
             <span>Momo</span>
 
           </div>
-          <img src="./src/assets/img/profil.png" alt="Location France" />
+          <img src="../assets/img/profil.png" alt="Location France" />
 
         </li>
       </ul>
