@@ -1,5 +1,7 @@
 import { useParams } from "react-router-dom";
 import {  useEffect, useState } from 'react';
+import { NavLink } from 'react-router-dom';
+
 
 interface Datas {
     id: string;
@@ -8,6 +10,7 @@ interface Datas {
     desc: string;
     Ingrediens: string;
     categories: string;
+    image:string;
 }
 
 export default function RecipeDetail() {
@@ -52,7 +55,7 @@ return (
 
                 <div className="flex flex-col items-start gap-5 px-5 py-10 border border-gray-300 rounded-md shadow-md bg-gray-50 w-full">
                            
-                            <img src="./assets/img/france.png" alt="" className="overflow-img" />
+                           <img src={datas.image} alt="" className="overflow-img" />
 
 
                     <h2 className="text-xl font-semibold text-gray-700">Recettes Details: {datas.Nom}</h2> <br />
@@ -68,9 +71,9 @@ return (
             )}
 
    
-
+ <button><NavLink  to="/"  >Retour a l'accueil</NavLink></button>
      
-<button>retour a l'accueil </button>
+
 
   
     </section>

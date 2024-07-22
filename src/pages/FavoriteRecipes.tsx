@@ -124,7 +124,7 @@ let bur =  parsestock.length
   .filter(data => parsestock.includes(data.id))
   .map((data) => (
     <div className="desc" key={data.id}>
-    <img src="./src/assets/img/assiete.png" alt="" className="overflow-img" />
+    <img src="../assets/img/assiete.png" alt="" className="overflow-img" />
     <div className="details">
         <br />
     <span>{data.Nom}</span><hr></hr>
