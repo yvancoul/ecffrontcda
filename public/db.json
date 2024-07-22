@@ -1,0 +1,85 @@
+{
+  "recettes": [
+    {
+      "id": "f038",
+      "image": "./src/assets/img/3.png",
+      "Nom": "Steak végétarien maison",
+      "Temps": "14",
+      "categories": "Française",
+      "Ingrediens": " Haricots rouges, Gousse(s) d'ail, Farine de pois chiches, Paprika fumé, Huile d'olive, Oignon(s), Chapelure, Sauce soja, Cumin moulu, Sel, poivre",
+      "desc": "Dans un grand bol, écrasez les haricots rouges à l'aide d'une fourchette jusqu'à obtenir une consistance pâteuse mais encore avec quelques morceaux.\n\nAjoutez l'oignon haché, l'ail, la chapelure, la farine de pois chiches, la sauce soja, le paprika, le cumin, du sel et du poivre. Mélangez bien jusqu'à ce que la composition soit homogène.\n\nFaçonnez la mixture en 4 galettes épaisses.\n\nChauffez un filet d'huile d'olive dans une poêle sur feu moyen. Faites cuire les steaks environ 4 minutes de chaque côté, jusqu'à ce qu'ils soient bien dorés et croustillants.\n\nServez chaud, accompagné de votre garniture préférée.\n\n"
+    },
+    {
+      "id": "78d8",
+      "image": "./src/assets/img/assiete.png",
+      "Nom": "Moussaka facile",
+      "Temps": "55",
+      "categories": "Française",
+      "Ingrediens": "Viande de boeuf hachée,Tomate(s),Ail,Ciboulette,Eau,Sel,Aubergine(s),Oignon(s),Fromage râpé,Huile d'olive,Beurre,Poivre",
+      "desc": "Découpez les aubergines en tranches fines puis mettez-les dans un récipient, salez et laissez-les dégorger 5 min. Rincez-les, essorez-les et faites-les frire dans 4 c. à soupe d'huile d'olive jusqu'à ce qu'elles soient dorées. Puis mettez-les dans un plat recouvert de papier absorbant pour éliminer l'excédent d'huile.\n\nPréparez la sauce béchamel. Faites chauffer dans une casserole le beurre et ajoutez la farine. Mélangez à l'aide d'une spatule en bois puis ajoutez le lait froid progressivement en remuant sans cesse avec un fouet. Salez, poivrez et muscadez.\n\nPréparez la viande et la sauce. Faites cuire dans 1 c. à soupe d'huile d'olive la viande hachée avec l'oignon finement coupé, l'ail, les tomates épluchées et découpées en petits dés, ainsi que la ciboulette ciselée. Ajoutez l'eau. Salez et poivrez à votre convenance et laissez cuire pendant 10 mn.\n\nPrenez un plat allant au four, et badigeonnez-le avec de l'huile d'olive restante. Disposez les tranches d'aubergines l'une à côté de l'autre pour faire une couche, recouvrez de viande et sauce tomate, puis recouvrez d'une couche d'aubergines et ainsi de suite jusqu'à la fin, en terminant par des aubergines. Recouvrez le tout avec la sauce béchamel et le fromage râpé sur tout le plat, puis déposez les noisettes de beurre. Enfournez pendant 25 min.\n\nLaissez reposer puis servez bien chaud avec une timbale de riz ou une salade bien assaisonnée."
+    },
+    {
+      "id": "9e0b",
+      "image": "./src/assets/img/5.png",
+      "Nom": "Filet mignon au Cookeo",
+      "Temps": "27",
+      "categories": "Française",
+      "Ingrediens": " Filet mignon de porc,  Eau, Pomme(s) de terre, Crème fraîche épaisse,  Moutarde à l'ancienne,Huile d'olive,  Vin blanc,Carotte(s),  Champignon(s) de paris,Maïzena, Sel poivre ",
+      "desc": "Épluchez et coupez en morceaux les carottes et les pommes de terre. Coupez en tranches le filet mignon puis épluchez et coupez en lamelles les champignons.\n\nEnsuite, mettez l huile et le filet mignon dans la cuve du Cookeo puis faites dorer pendant 2 min de chaque coté. Ajoutez le vin blanc, l'eau, le cube de boeuf, les carottes, les pommes de terre, les champignons, salez, poivrez et programmez 15 min en cuisson sous pre\n\n\nDans un récipient, mélangez la crème fraîche avec la moutarde puis ajoutez-la dans la cuve du robot une fois la cuisson terminée. Prélevez 1 louche de bouillon et mélangez avec la maïzena puis remettez dans la cuve.\n\nRectifiez l assaisonnement puis servez.\n\n"
+    },
+    {
+      "id": "4cfd",
+      "image": "./src/assets/img/assiete.png",
+      "Nom": "Truite en papillote au four",
+      "Temps": "30",
+      "categories": "Française",
+      "Ingrediens": "Truite(s), Citron(s), Thym, Huile d'olive, Tomate(s), Oignon(s),Persil,Sel poivre du moulin",
+      "desc": "Préchauffez le four. Enduisez d'huile d'olive 4 feuilles de papier aluminium. Puis, placez les truites dessus.\n\nLavez les tomates et coupez-les en rondelles. Lavez les citrons et coupez-les en rondelles également. Lavez le persil et ciselez-le finement. Enfin, épluchez l'oignon et émincez-le. Déposez sur chaque papillote, autour du poisson, des rondelles de tomates, des rondelles de citrons, du persil et de l'oignon. Salez et poivrez à votre convenance, puis parsemez de thym.\n\nDéposez vos papillotes dans un plat allant au four et enfournez pendant 20 min (le temps de cuisson peut varier de 5 min selon la taille de vos truites). Lorsque vos truites sont bien cuites, sortez-les du four et présentez-les soit sorties de leur papillote dans les assiettes, soit encore dans leur papillote. Servez votre poisson au four avec une timbale de riz basmati, arrosé de jus de citron."
+    },
+    {
+      "id": "2c7f",
+      "image": "./src/assets/img/assiete.png",
+      "Nom": "Fèves au thym",
+      "Temps": "30",
+      "categories": "Portugaise",
+      "Ingrediens": "Fève fraîche(s), Beurre, Sel poivre, Thym, Crème fraîche",
+      "desc": "Dans une casserole, faites chauffer de l'eau salée. Une fois à ébullition, faites tremper et cuire les fèves pendant 3 4 min. Surveillez la cuisson des fèves ; elles doivent être tendres mais pas décomposées.\n\nUne fois la cuisson terminée, égouttez les fèves et épluchez-les puis videz l'eau de la casserole. Dans cette même casserole, mettez le beurre à fondre, ajoutez les fèves, le thym, la crème, le sel et le poivre. Faites cuire les fèves au thym légèrement en laissant mijoter (6 min à feu doux voire moyen.\n\n\nConsommez vos fèves au thym bien chaudes en accompagnement d'un gigot d'agneau par exemple. Elles iront également très bien avec des poissons grillés, des crevettes ou encore des langoustines."
+    },
+    {
+      "id": "2f16",
+      "image": "./src/assets/img/assiete.png",
+      "Nom": "Ramen au poulet",
+      "Temps": "40",
+      "categories": "Asiatique",
+      "Ingrediens": " Nouille ramen(s), oeuf(s), Ciboule,Sauce soja,  Graines de sésame,  Escalope(s) de poulet,  Gousse(s) d'ail, Bouillon de volaille, Huile de sésame,Mirin",
+      "desc": "Faites bouillir une casserole d'eau salée. Plongez les nouilles dedans et faites les cuire quelques minut es. Égouttez les nouilles et réservez dans un bol.\n\nFaites cuire les oeufs pendant 6 min dans une casserole d'eau bouillante. Retirez du feu et plongez les oeufs dans de l'eau froide. Écalez les oeufs et réservez.\n\nEmincez finement la ciboule. Réservez.\n\nCoupez le poulet en petits morceaux et faites-les revenir dans une poêle. Une fois qu'ils sont légèrement dorés, ajoutez une cuillère de sauce soja et une cuillère de mirin. Lorsqu'ils ont bien absorbé la sauce, couper le feu et réserver.\n\nDans une casserole, faites bouillir de l'eau (400 ml par personne). Plongez-y les cubes de bouillon de volaille. Ajoutez 3 cuillères à soupe de sauce soja, 2 cuillères à soupe de mirin, 2 cuillères à soupe d'huile de sésame. Ecrasez 2 gousses d'ail dans le bouillon. Portez à ébullition.\n\nLorsque le bouillon bout, coupez le feu et versez-le dans le bol où se trouvent les nouilles. Répartissez les lamelles de poulet ainsi qu'un oeuf coupé en deux. Ajoutez la ciboule finement émincée. Parsemez de graines de sésame. Dégustez sans attendre.\n"
+    },
+    {
+      "id": "3da6",
+      "image": "./src/assets/img/7.png",
+      "Nom": "Rosbeef au four à l ail",
+      "Temps": "30",
+      "categories": "Portugaise",
+      "Ingrediens": "Rosbeef, Carotte(s),Romarin,Sel poivre du moulin,Oignon(s),Ail,Beurre ramolli",
+      "desc": "Préchauffez le four à (260 C).\n\nPelez l'ail et coupez-le en morceaux. Piquez le rôti et glissez-y les morceaux d'ail. Badigeonnez la viande avec le beurre ramolli, au pinceau. Placez le rôti dans un plat allant au four. Pelez et émincez les oignons. Épluchez et coupez les carottes en petits bâtonnets et ajoutez-les autour du rôti. Complétez avec un verre d'eau.\n\nEnfournez pendant 8 min pour saisir la viande puis baissez le four à 220 C et laissez cuire 20 à 25 min, selon la cuisson désirée.\n\n\nSalez et poivrez en fin de cuisson. Ajoutez le romarin. Laissez le rôti reposer 6 à 8 min dans le four éteint, avec la porte entre-ouverte. Servez le rôti découpé en fines tranches avec les oignons et les carottes et le jus de cuisson."
+    },
+    {
+      "id": "d699",
+      "image": "./src/assets/img/6.png",
+      "Nom": "Poulpe grillé",
+      "Temps": "300",
+      "categories": "Asiatique",
+      "Ingrediens": "Poulpe(s),Huile d'olive,Vin rouge",
+      "desc": "Préchauffez le four à th.6 (180 C).\n\nPendant ce temps, plongez le poulpe dans une grande casserole d eau bouillante et laissez cuire pendant 30 min à feu moyen. Egouttez le.\n\nSur une plaque de four recouverte d un papier aluminium, déposez le poulpe et arrosez le avec l huile d olive et le vin rouge.\n\nEnfournez pendant 1h.\n\n"
+    },
+    {
+      "id": "11c5",
+      "image": "./src/assets/img/7.png",
+      "Nom": "fefe",
+      "Temps": "23",
+      "categories": "Portugaise",
+      "Ingrediens": "fefefefefe",
+      "desc": "feffe"
+    }
+  ]
+}

@@ -1,0 +1,442 @@
+
+@import url(reset.css);
+
+.poppins-thin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.poppins-extralight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.poppins-light {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.poppins-regular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.poppins-semibold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.poppins-bold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.poppins-extrabold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+.poppins-black {
+  font-family: "Poppins", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.poppins-thin-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.poppins-extralight-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  font-style: italic;
+}
+
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.poppins-regular-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.poppins-semibold-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-style: italic;
+}
+
+
+
+body {
+
+  background: rgb(244, 244, 248);
+  background-image: url(../img/tomatos.jpg);
+  background-size: cover;
+  font-family: "Poppins", sans-serif;
+
+
+
+  }
+ 
+  
+  .navmobile{
+    display: none;
+  }
+  
+
+.menumobile{
+  background: rgba(255, 255, 255, 0.5); /* semi-transparent background */
+  backdrop-filter: blur(10px);
+  color: rgb(5, 4, 4);
+  height: 200px; 
+
+  li{
+    padding: 20px;
+  }
+}
+  
+
+ nav {
+
+  background: rgba(255, 255, 255, 0.5); 
+  backdrop-filter: blur(10px);
+  border-radius: 5px;
+
+ 
+ 
+
+      
+      display: flex;
+      justify-content: space-between;
+      padding: 16px;
+      ul {
+      display: flex;
+      gap: 16px;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+
+      .gray{
+        color: rgb(165, 165, 165);
+      }
+
+      .profile-info {
+      display: flex;
+      flex-direction: row-reverse;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .profile-info div {
+      display: flex;
+      flex-direction: column;
+      margin-right: 8px;
+    }
+
+    .profile-info img {
+      height: 32px;
+      width: 32px;
+      border-radius: 50%;
+    }
+
+    .menu-item {
+      display: flex;
+      align-items: center;
+    }
+
+    .my-fav {
+      background-color: black;
+      color: white;
+      border-radius: 40px;
+      padding: 8px 16px;
+      .favlengh{
+        background-color:yellow;
+        color: black;
+        padding: 5px;
+        width: 30px;
+        border-radius: 50%;
+margin-top: 5px;
+        position: absolute;
+         top: -1px; /* Adjust this value to control the vertical overflow */
+      
+   text-align: center;
+    
+      }
+    }
+    }
+
+
+    }
+
+  
+
+    .plats {
+      display: flex;
+      flex-wrap: wrap;
+      grid-gap: 30px;
+    
+      padding: 100px; 
+      margin: 20px;
+      justify-content: center;
+      row-gap: 100px;
+      position: relative;
+      z-index: 1;
+
+    
+    }
+
+
+    .desc {
+      
+     
+      position: relative;
+      padding-top: 20px;
+      width: 230px;
+      height: 250px;
+      background: rgba(255, 255, 255, 0.5); 
+      backdrop-filter: blur(10px);
+
+      box-sizing: border-box;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+     
+      border-radius: 10px;
+      text-align: center;
+      .overflow-img {
+      position: absolute;
+      top: -100px; 
+      left: 50%;
+      transform: translateX(-50%);
+      height: 200px;
+    }
+    .desc h3, .desc .row, .desc div {
+    
+    position: relative;
+    z-index: 1;
+    text-align: center;
+ 
+
+  }.row{
+    color: rgb(176, 174, 174);
+  }
+  .details{
+      padding-top: 60px;
+
+      hr{
+        color: rgb(245, 234, 234);
+        opacity: 20%;
+      }
+    }
+  
+    
+
+    
+    }
+
+    .search{
+
+
+    text-align: center;
+    padding:20px;
+    line-height: 235%;
+  
+
+    
+color: black;
+    
+      
+   input{
+   height:40px;
+   width: 400px;
+   border: 1px solid rgba(22, 21, 20, 0.885);
+   border-radius: 5px;
+   
+
+   
+  }
+ 
+span{
+  font-size:3rem ;
+  box-shadow: 2rem;
+
+ 
+  font-weight: 500;
+}
+
+      .row{
+        display: flex;
+        flex-wrap: wrap;
+       
+      }
+
+      .search-button {
+      
+       background-color: rgba(5, 5, 5, 0.885);
+        padding: 12px 16px; 
+        border: 1px solid  blanchedalmond;
+        color: white;
+        border-radius: 6px;
+        .size-2 {
+          width: 20px; 
+          height: 16px; 
+        }
+       
+      }
+      .search-button:hover {
+        background-color: rgba(104, 84, 58, 0.885); /* Couleur de fond au survol */
+      
+      }
+
+      .checkdiv {
+        display: flex;
+        flex-direction: column;
+        background: rgba(255, 255, 255, 0.5); /* semi-transparent background */
+        backdrop-filter: blur(10px);
+       display: none;
+        width: 10%;
+       position: absolute;
+       border-radius: 10px;
+       left: 62%;
+       z-index: 2; /* Valeurs négatives possibles pour indiquer une priorité inférieure */      
+        input{
+        width: 10px;
+        flex-wrap: wrap;
+    
+     
+       
+       }
+
+      }
+      
+      
+      .Checkdiv input[type="checkbox"] {
+        margin-right: 5px;
+      }
+
+    }
+    .icon-button {
+      display: none;
+    }
+
+    .Formadd{
+      
+      background-color: #f9f9f9;
+      padding: 40px;
+
+      border-radius: 8px;
+      max-width: 600px;
+      margin: 20px auto;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      .form-group {
+        margin-bottom: 15px;
+      }
+      textarea{
+       height: 200px;
+      }      .form-group label {
+        display: block;
+        margin-bottom: 5px;
+        font-weight: bold;
+      }
+      
+      .form-group input,
+      .form-group select,
+      .form-group textarea {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      
+      .form-group textarea {
+        resize: vertical;
+      }
+      
+      button {
+        background-color: #4CAF50;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      
+      button:hover {
+        background-color: #45a049;
+      }
+    }
+    .hidden {
+      display: none;
+    }    
+
+    @media (max-width: 700px) {
+      nav {
+        display: none;
+      }
+
+
+      .checkdiv{
+      font-size: x-small;
+      left: 60%;
+      
+    
+       }
+
+      .icon-button{
+        background-color: rgba(2, 2, 1, 0.885); /* Couleur de fond */
+        border: none; /* Sans bordure */
+        border-radius: 50%; /* Forme ronde */
+        padding: 10px; /* Espacement interne */
+        cursor: pointer; /* Curseur en forme de main */
+        transition: background-color 0.3s, transform 0.3s; /* Effets de transition */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre */
+    }
+
+    .icon-button:hover {
+      background-color: rgba(49, 46, 42, 0.885); /* Couleur de fond au survol */
+        transform: scale(1.1); /* Agrandissement au survol */
+    }
+
+    .icon {
+        width: 24px;
+        height: 24px;
+        color: white; /* Couleur de l'icône */
+    }
+       .plats {
+        margin: 0px;
+       }
+       
+
+    
+    }
+  
+  
+    /* Media Query pour ajuster le style entre 768px et 991px */
